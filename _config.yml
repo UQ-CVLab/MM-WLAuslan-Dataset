@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : MM-WLAuslan Dataset
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -84,14 +84,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
@@ -159,7 +159,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: false # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
@@ -195,7 +195,7 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
+  # - /docs
   - /node_modules
   - /screenshots
   - /test
@@ -214,6 +214,19 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+  ## dataset
+  - scope:
+      path: "_dataset/en"
+    values:
+      layout: article
+      nav_key: dataset
+      sidebar:
+        nav: dataset-en
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_date: false
 
 
 ## => Plugins
@@ -223,3 +236,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+port: 4020

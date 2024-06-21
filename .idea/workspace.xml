@@ -5,7 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789ae37c-78bf-4acc-aa91-e0cd263ce806" name="Changes" comment="xin">
+      <change afterPath="$PROJECT_DIR$/.bundle/config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/locale.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_data/locale.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/cover4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/docker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-bilibili.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-codepen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-netease-cloud-music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-slideshare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-soundclound.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-ted.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/extensions-youtube.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/github-fork.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/github-rename-repo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-app-info.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-authorization.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/leancloud-create-class-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-path.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/realfavicongenerator-select-favicon-picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_alipay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_paypal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/tip_wechat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/landing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/media/xins/xinS1/Word_LeveL_Auslan/website/MM-WLAuslan-Dataset",
+    "last_opened_file_path": "/media/xins/xinS1/Word_LeveL_Auslan/website/Auslan-Daily-Dataset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718979313338</updated>
-      <workItem from="1718979314404" duration="630000" />
+      <workItem from="1718979314404" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="xin">
       <created>1718979809422</created>
@@ -54,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718979809422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="xin">
+      <created>1718979956133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718979956133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,29 +1,46 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Introduction
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
+      zh-Hans : &ZH_HANS  简介
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /docs/en/introduction
+
+  - titles:
+      # @start locale config
+      en      : &EN       Why do we need this dataset?
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  背景
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      # @end locale config
+    url: /docs/en/background
+
+  - titles:
+      # @start locale config
+      en      : &EN       Dataset
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  数据集
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      # @end locale config
+    url: /docs/en/dataset-source
+    key: dataset
 
   - titles:
       # @start locale config
@@ -36,17 +53,104 @@ header:
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+
+dataset-en:
+  - title:      Data Collection
+    children:
+      - title:  Collection
+        url:    /docs/en/dataset-source
+      - title:  Multi-View & Multi-Modal
+        url:    /docs/en/dataset-collection
+  - title:      Gloss Type
+    children:
+      - title:  Alphabet
+        url:    /docs/en/dataset-annotation-fingerspelling
+      - title:  Number
+        url:    /docs/en/dataset-annotation-gloss
+      - title:  Fingerspelling
+        url:    /docs/en/dataset-annotation-sentence
+      - title:  Commonly Used
+        url:    /docs/en/dataset-annotation-pose-sequence-of-human
+  - title: Statistics
+    children:
+      - title: MM-WLAuslan Statistics
+        url: /docs/en/dataset-statistics-task
+  - title:      Tasks
+    children:
+      - title:  In-Domain ISLR Setting
+        url:    /docs/en/dataset-main-task
+      - title:  Cross-Domain ISLR Setting
+        url:    /docs/en/dataset-sub-tasks
+  - title:      Dataset Download
+    children:
+      - title:  Data Format
+        url:    /docs/en/dataset-format
+      - title:  Dataset Download
+        url:    /docs/en/dataset-download
+  # - title:      Data Examples
+  #   children:
+  #     - title:  Sally & Possum
+  #       url:    /docs/en/data-example-sally-and-possum
+  #     - title:  ABC Daily News
+  #       url:    /docs/en/data-example-abc-daily-news
+  #     - title:  Web
+  #       url:    /docs/en/data-example-web
+  # - title:      Data Collection
+  #   children:
+  #     - title:  Sally & Possum
+  #       url:    /docs/en/dataset-sally-and-possum
+  #     - title:  ABC Daily News
+  #       url:    /docs/en/dataset-abc-daily-news
+  #     - title:  Update from 1.x to 2.x
+  #       url:    /docs/en/update-from-1-to-2
+  # - title:      Annotation
+  #   children:
+  #     - title:  Configuration
+  #       url:    /docs/en/configuration
+  #     - title:  Navigation
+  #       url:    /docs/en/navigation
+  #     - title:  Layouts
+  #       url:    /docs/en/layouts
+  #     - title:  Logo and Favicon
+  #       url:    /docs/en/logo-and-favicon
+  #     - title:  Authors
+  #       url:    /docs/en/authors
+  #     - title:  Internationalization
+  #       url:    /docs/en/i18n
+  # - title:      Examples
+  #   children:
+  #     - title:  Writing Posts
+  #       url:    /docs/en/writing-posts
+  #     - title:  Additional Styles
+  #       url:    /docs/en/additional-styles
+  #     - title:  Extensions
+  #       url:    /docs/en/extensions
+  #     - title:  Markdown Enhancements
+  #       url:    /docs/en/markdown-enhancements
+  # - title:      Data Format
+  #   children:
+  #     - title:  Spacing
+  #       url:    /docs/en/spacing
+  #     - title:  Grid
+  #       url:    /docs/en/grid
+  #     - title:  Icons
+  #       url:    /docs/en/icons
+  #     - title:  Image
+  #       url:    /docs/en/image
+  #     - title:  Button
+  #       url:    /docs/en/button
+  #     - title:  Item
+  #       url:    /docs/en/item
+  #     - title:  Card
+  #       url:    /docs/en/card
+  #     - title:  Hero
+  #       url:    /docs/en/hero
+  #     - title:  Swiper
+  #       url:    /docs/en/swiper
+  # - title:      Download
+  #   children:
+  #     - title:  中文
+  #       url:    /docs/zh/quick-start
