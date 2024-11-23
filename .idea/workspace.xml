@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789ae37c-78bf-4acc-aa91-e0cd263ce806" name="Changes" comment="xin-test" />
+    <list default="true" id="789ae37c-78bf-4acc-aa91-e0cd263ce806" name="Changes" comment="xin-update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/media/xins/xinS1/Word_LeveL_Auslan/website/Auslan-Daily-Dataset",
+    "last_opened_file_path": "/media/xins/xinS1/Word_LeveL_Auslan/website/MM-WLAuslan-Dataset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718979313338</updated>
       <workItem from="1718979314404" duration="2035000" />
+      <workItem from="1719049868058" duration="494000" />
+      <workItem from="1732347226299" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="xin">
       <created>1718979809422</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718981118307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="xin-update">
+      <created>1719050164004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719050164004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xin" />
     <MESSAGE value="xin-test" />
-    <option name="LAST_COMMIT_MESSAGE" value="xin-test" />
+    <MESSAGE value="xin-update" />
+    <option name="LAST_COMMIT_MESSAGE" value="xin-update" />
   </component>
 </project>
