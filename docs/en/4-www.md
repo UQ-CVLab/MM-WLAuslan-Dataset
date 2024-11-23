@@ -116,7 +116,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 ### Why Participate?
 - **Exciting Research Opportunities**: Tackle a cutting-edge problem in sign language recognition.
 - **Global Exposure**: Showcase your work at The Web Conference, a premier international venue for researchers and practitioners.
-- **Generous Awards**: Compete for prizes while gaining recognition in the field.
+- **Generous Awards**: The top three entries in each setting, or innovative works, will be featured at **The Web Conference**.
 - **Collaborative Community**: Engage with fellow researchers and practitioners passionate about creating impactful solutions.
 
 <br><br>
@@ -131,6 +131,5 @@ Whether you're a researcher, student, or enthusiast, your participation will con
 
 We look forward to seeing your innovative solutions!
 
-**Join us today and make a difference.**
+**If you have any questions, please feel free to contact Xin Shen (x.shen3@uqconnect.edu.au) and Heming Du (heming.du@uq.edu.au)**.
 
-[Learn More & Register](Insert link here)
