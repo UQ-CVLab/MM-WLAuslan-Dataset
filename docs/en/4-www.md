@@ -7,7 +7,7 @@ article_header:
   type: cover
   theme: dark
   image:
-    src:  /docs/assets/images/www.png
+    src:  /docs/assets/images/www_conf.png
 ---
 
 <!--
@@ -34,7 +34,7 @@ article_header:
     </style>
 </head>
 <figure class="image-with-caption">
-    <img src="../assets/images/www.png">
+    <img src="../assets/images/www_conf.png">
     <!-- <figcaption>Spatial Annotation</figcaption> -->
 <!-- </figure> -->
 
