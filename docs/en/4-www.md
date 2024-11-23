@@ -39,7 +39,7 @@ article_header:
 <!-- </figure> -->
 
 
-## Invitation to Join the Cross-View Isolated Sign Language Recognition Challenge
+## Invitation to Join the CV-ISLR Challenge
 
 We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **The Web Conference**.
 
@@ -54,7 +54,7 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
   - **Workshops**: 28 April - 29 April, 2025
 
 
-All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone. We encourage participants to cooperate closely with the conference workshop chairs and the local organizers.
+All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone.
 
 ### About the CV-ISLR Challenge
 This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
