@@ -47,11 +47,11 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
 - **Timeline**:
-&nbsp;&nbsp;&nbsp;&nbsp; - **Challenge End Date**: 11 December, 2024
-&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Submission**: 18 December, 2024
-&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Notification**: 13 January, 2025
-&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Camera-Ready**: 2 February, 2025
-&nbsp;&nbsp;&nbsp;&nbsp; - **Workshops**: 28 April - 29 April, 2025
+  - **Challenge End Date**: 11 December, 2024
+  - **Workshop Paper Submission**: 18 December, 2024
+  - **Workshop Paper Notification**: 13 January, 2025
+  - **Workshop Paper Camera-Ready**: 2 February, 2025
+  - **Workshops**: 28 April - 29 April, 2025
 
 
 All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone. We encourage participants to cooperate closely with the conference workshop chairs and the local organizers.
@@ -62,9 +62,9 @@ This challenge focuses on advancing the field of sign language recognition by ad
 Cross-View Isolated Sign Language Recognition (CV-ISLR) aims to tackle a significant issue in the current field of isolated sign language recognition (ISLR). Most commonly used datasets for ISLR capture sign language videos from a frontal view. However, in real-life situations, it is not always feasible to ensure the camera is positioned directly in front of the signer. As a result, recognition models need to be capable of understanding sign language from various viewpoints, making cross-view ISLR a critical challenge.
 
 To address this, we have curated the [**MM-WLAuslan**](https://arxiv.org/pdf/2410.19488) dataset, which was specifically recorded with cross-view recognition in mind. MM-WLAuslan is **the first** large-scale Multi-view Multi-modal Word-Level Australian Sign Language recognition dataset. Compared to other publicly available datasets, MM-WLAuslan exhibits three significant advantages:
-1. **The largest amount** of data,
-2. **The most extensive** vocabulary, and
-3. **The most diverse** multi-modal camera views.
+- **The largest amount** of data,
+- **The most extensive** vocabulary, and
+- **The most diverse** multi-modal camera views.
 
 Specifically, we recorded **282K+** sign videos covering **3,215** commonly used Auslan glosses presented by **73** signers in a studio environment. Our filming system includes two different types of cameras, i.e., three Kinect-V2 cameras and a RealSense camera. Cameras were positioned hemispherically around the front half of the signer, and all four cameras simultaneously recorded videos.
 
@@ -88,6 +88,22 @@ We will use **Top-k Accuracy** to evaluate participants' ISLR models. Top-k Accu
 
 ### Dataset Download
 
+We have divided the dataset into three subsets: Train, Valid, and Test.
+
+- **Train and Valid**: These subsets provide RGB and depth data from the front view, along with the corresponding gloss annotations.
+- **Test**: This subset only includes RGB and depth data from the left and right views, without annotations.
+
+The download links for each subset **(Click to enter Google Drive)**:
+- [Train]()
+- [Valid]()
+- [Test-STU-Left]()
+- [Test-ITW-Left]()
+- [Test-SYN-Left]()
+- [Test-TED-Left]()
+- [Test-STU-Right]()
+- [Test-ITW-Right]()
+- [Test-SYN-Right]()
+- [Test-TED-Right]()
 
 
 ### Why Participate?
