@@ -39,23 +39,13 @@ article_header:
 <!-- </figure> -->
 
 
-# Invitation to Join the Cross-View Isolated Sign Language Recognition Challenge
+### Invitation to Join the Cross-View Isolated Sign Language Recognition Challenge
 
-We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge**, hosted as part of **The Web Conference**.
+We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **The Web Conference**.
 
-### About the Challenge
-This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
-
-### Why Participate?
-- **Exciting Research Opportunities**: Tackle a cutting-edge problem in sign language recognition.
-- **Global Exposure**: Showcase your work at The Web Conference, a premier international venue for researchers and practitioners.
-- **Generous Awards**: Compete for prizes while gaining recognition in the field.
-- **Collaborative Community**: Engage with fellow researchers and practitioners passionate about creating impactful solutions.
-
-### Key Details
+### Date
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
-- **Timeline**: [Insert dates here, if available]
 - **Timeline**:
   - **Challenge End Date**: 11 December, 2024
   - **Workshop Paper Submission**: 18 December, 2024
@@ -64,7 +54,50 @@ This challenge focuses on advancing the field of sign language recognition by ad
   - **Workshops**: 28 April - 29 April, 2025
 All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone. We encourage participants to cooperate closely with the conference workshop chairs and the local organizers.
 
+### About the CV-ISLR Challenge
+This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
 
+Cross-View Isolated Sign Language Recognition (CV-ISLR) aims to tackle a significant issue in the current field of isolated sign language recognition (ISLR). Most commonly used datasets for ISLR capture sign language videos from a frontal view. However, in real-life situations, it is not always feasible to ensure the camera is positioned directly in front of the signer. As a result, recognition models need to be capable of understanding sign language from various viewpoints, making cross-view ISLR a critical challenge.
+
+To address this, we have curated the [**MM-WLAuslan**](https://arxiv.org/pdf/2410.19488) dataset, which was specifically recorded with cross-view recognition in mind. MM-WLAuslan is **the first** large-scale Multi-view Multi-modal Word-Level Australian Sign Language recognition dataset. Compared to other publicly available datasets, MM-WLAuslan exhibits three significant advantages:
+1. **The largest amount** of data,
+2. **The most extensive** vocabulary, and
+3. **The most diverse** multi-modal camera views.
+
+Specifically, we recorded **282K+** sign videos covering **3,215** commonly used Auslan glosses presented by **73** signers in a studio environment. Our filming system includes two different types of cameras, i.e., three Kinect-V2 cameras and a RealSense camera. Cameras were positioned hemispherically around the front half of the signer, and all four cameras simultaneously recorded videos.
+
+As shown in the accompanying figures, different camera angles were utilized to reflect the diversity of potential viewpoints encountered outside controlled environments.
+
+During testing, we further simulate real-life scenarios by setting different test conditions to evaluate model performance across various views. We provide a diverse test set with four distinct subsets, including:
+1. **Studio (STU) set**: Consistent scene settings with the training set.
+2. **In-the-wild (ITW) set**: Dynamic or static backgrounds replace the green screens to simulate videos recorded in diverse environments.
+3. **Synthetic background (SYN) set**: A background remover extracts signers from videos, and indoor or outdoor backgrounds are synthesized.
+4. **Temporal disturbance (TED) set**: This set simulates potential recording time discrepancies in real-world scenarios by randomly adjusting video segments through removal or altering playback speed.
+
+Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source)
+
+### Challenge Details
+
+To encourage research in this area, we are launching the Cross-View Isolated Sign Language Recognition Challenge, which will feature two competition settings:
+1. **RGB-based ISLR**: Participants will develop models using only the front Kinect-V2 RGB data from the dataset, aiming to recognize signs from different views (left-front and right-front Kinect-V2) based on pixel information alone.
+2. **RGB-D-based ISLR**: Participants will have access to both RGB and depth data, allowing them to leverage multi-modal information to improve recognition performance across views.
+
+We will use **Top-\*k* Accuracy** to evaluate participants' ISLR models. Top-\*k* Accuracy is quantitatively defined as the proportion of test instances for which the true label is among the top *k* predictions made by the model. It is particularly suitable for ISLR tasks with a large set of possible outcomes.
+
+### Dataset Download
+
+
+### Why Participate?
+- **Exciting Research Opportunities**: Tackle a cutting-edge problem in sign language recognition.
+- **Global Exposure**: Showcase your work at The Web Conference, a premier international venue for researchers and practitioners.
+- **Generous Awards**: Compete for prizes while gaining recognition in the field.
+- **Collaborative Community**: Engage with fellow researchers and practitioners passionate about creating impactful solutions.
+
+\\
+
+
+
+\\
 
 ### How to Participate
 1. Visit our challenge page: [Insert challenge link]
