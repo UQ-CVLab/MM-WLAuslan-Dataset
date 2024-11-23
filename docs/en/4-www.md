@@ -61,12 +61,7 @@ This challenge focuses on advancing the field of sign language recognition by ad
 
 Cross-View Isolated Sign Language Recognition (CV-ISLR) aims to tackle a significant issue in the current field of isolated sign language recognition (ISLR). Most commonly used datasets for ISLR capture sign language videos from a frontal view. However, in real-life situations, it is not always feasible to ensure the camera is positioned directly in front of the signer. As a result, recognition models need to be capable of understanding sign language from various viewpoints, making cross-view ISLR a critical challenge.
 
-To address this, we have curated the [**MM-WLAuslan**](https://arxiv.org/pdf/2410.19488) dataset, which was specifically recorded with cross-view recognition in mind. MM-WLAuslan is **the first** large-scale Multi-view Multi-modal Word-Level Australian Sign Language recognition dataset. Compared to other publicly available datasets, MM-WLAuslan exhibits three significant advantages:
-- **The largest amount** of data,
-- **The most extensive** vocabulary, and
-- **The most diverse** multi-modal camera views.
-
-Specifically, we recorded **282K+** sign videos covering **3,215** commonly used Auslan glosses presented by **73** signers in a studio environment. Our filming system includes two different types of cameras, i.e., three Kinect-V2 cameras and a RealSense camera. Cameras were positioned hemispherically around the front half of the signer, and all four cameras simultaneously recorded videos.
+To address this, we have curated the [**MM-WLAuslan**](https://arxiv.org/pdf/2410.19488) dataset, which was specifically recorded with cross-view recognition in mind. MM-WLAuslan is **the first** large-scale Multi-view Multi-modal Word-Level Australian Sign Language recognition dataset. We recorded **282K+** sign videos covering **3,215** commonly used Auslan glosses presented by **73** signers in a studio environment. Our filming system includes two different types of cameras, i.e., three Kinect-V2 cameras and a RealSense camera. Cameras were positioned hemispherically around the front half of the signer, and all four cameras simultaneously recorded videos.
 
 As shown in the accompanying figures, different camera angles were utilized to reflect the diversity of potential viewpoints encountered outside controlled environments.
 
@@ -84,7 +79,7 @@ To encourage research in this area, we are launching the Cross-View Isolated Sig
 1. **RGB-based ISLR**: Participants will develop models using only the front Kinect-V2 RGB data from the dataset, aiming to recognize signs from different views (left-front and right-front Kinect-V2) based on pixel information alone.
 2. **RGB-D-based ISLR**: Participants will have access to both RGB and depth data, allowing them to leverage multi-modal information to improve recognition performance across views.
 
-We will use **Top-k Accuracy** to evaluate participants' ISLR models. Top-k Accuracy is quantitatively defined as the proportion of test instances for which the true label is among the top *k* predictions made by the model. It is particularly suitable for ISLR tasks with a large set of possible outcomes.
+We will use **Top-1 & Top-5 Accuracy** to evaluate participants' ISLR models.
 
 ### Dataset Download
 
@@ -94,7 +89,7 @@ We have divided the dataset into three subsets: Train, Valid, and Test.
 - **Test**: This subset only includes RGB and depth data from the left and right views, without annotations.
 
 The download links for each subset **(Click to enter Google Drive)**:
-- [Train](https://drive.google.com/drive/folders/1SaNlubIwnf8ciWIJ-tc4lYsK8F1P9IrM?usp=drive_link)
+  - [Train](https://drive.google.com/drive/folders/1SaNlubIwnf8ciWIJ-tc4lYsK8F1P9IrM?usp=drive_link)
   - [Valid](https://drive.google.com/drive/folders/1VJilwDWCVIbVnOnAcbyoHN4EZOfnS5Db?usp=drive_link)
   - [Test-STU-Left](https://drive.google.com/drive/folders/1TLyN_esKh2gwThFVul7rfVE1CGqYmv7U?usp=drive_link)
   - [Test-ITW-Left](https://drive.google.com/drive/folders/18A8wEcRPJ2e5T8lMM2F_isu9qP-NyuSY?usp=drive_link)
