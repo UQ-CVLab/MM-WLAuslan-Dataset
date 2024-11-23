@@ -96,10 +96,10 @@ We have divided the dataset into three subsets: Train, Valid, and Test.
 - **Train and Valid**: These subsets provide RGB and depth data from the front view, along with the corresponding gloss annotations.
 - **Test**: This subset only includes RGB and depth data from the left and right views, without annotations.
 
-<br><br>
+<br>
 
 The download links for each subset **(Click to enter Google Drive)**:
-  - [Train, Valid Test Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
+  - [Train, Valid and Test Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
   - [Train](https://drive.google.com/drive/folders/1SaNlubIwnf8ciWIJ-tc4lYsK8F1P9IrM?usp=drive_link)
   - [Valid](https://drive.google.com/drive/folders/1VJilwDWCVIbVnOnAcbyoHN4EZOfnS5Db?usp=drive_link)
   - [Test-STU-Left](https://drive.google.com/drive/folders/1TLyN_esKh2gwThFVul7rfVE1CGqYmv7U?usp=drive_link)
