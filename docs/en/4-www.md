@@ -2,7 +2,7 @@
 layout: page
 title: The WEB CONFERENCE
 permalink: /docs/en/www
-key: docs-background
+key: docs-www
 article_header:
   type: cover
   theme: dark
@@ -34,7 +34,7 @@ article_header:
     </style>
 </head>
 <figure class="image-with-caption">
-    <img src="../assets/images/FingerSpell_AUSLAN_DAILY.png">
+    <img src="../assets/images/www.png">
     <!-- <figcaption>Spatial Annotation</figcaption> -->
 <!-- </figure> -->
 
