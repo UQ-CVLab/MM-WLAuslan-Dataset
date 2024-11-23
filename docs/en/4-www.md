@@ -43,7 +43,7 @@ article_header:
 
 We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **The Web Conference**.
 
-<br><br>
+<br>
 
 ### Date
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
@@ -58,7 +58,7 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 
 All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone.
 
-<br><br>
+<br>
 
 ### About the CV-ISLR Challenge
 This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
@@ -77,7 +77,7 @@ During testing, we further simulate real-life scenarios by setting different tes
 
 Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source).
 
-<br><br>
+<br>
 
 ### Challenge Details
 
@@ -87,7 +87,7 @@ To encourage research in this area, we are launching the Cross-View Isolated Sig
 
 We will use **Top-1 & Top-5 Accuracy** to evaluate participants' ISLR models.
 
-<br><br>
+<br>
 
 ### Dataset Download
 
@@ -111,7 +111,7 @@ The download links for each subset **(Click to enter Google Drive)**:
   - [Test-SYN-Right](https://drive.google.com/drive/folders/1zYksp5QlloVlcKdTGQs9Mt4qZUYnlO_Y?usp=drive_link)
   - [Test-TED-Right](https://drive.google.com/drive/folders/1ygy5JJs4K495QYk_X-I0HbOKqy1B36Z2?usp=drive_link)
 
-<br><br>
+<br>
 
 ### Why Participate?
 - **Exciting Research Opportunities**: Tackle a cutting-edge problem in sign language recognition.
@@ -119,7 +119,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 - **Generous Awards**: The top three entries in each setting, or innovative works, will be featured at **The Web Conference**.
 - **Collaborative Community**: Engage with fellow researchers and practitioners passionate about creating impactful solutions.
 
-<br><br>
+<br>
 
 ### How to Participate
 1. Visit our challenge page: [Insert challenge link]
@@ -127,9 +127,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 3. Download the dataset and guidelines.
 4. Submit your solutions before the deadline.
 
-Whether you're a researcher, student, or enthusiast, your participation will contribute to advancing sign language recognition and fostering a more inclusive technological future.
-
-We look forward to seeing your innovative solutions!
+Whether you're a researcher, student, or enthusiast, your participation will contribute to advancing sign language recognition and fostering a more inclusive technological future.  We look forward to seeing your innovative solutions!
 
 **If you have any questions, please feel free to contact Xin Shen (x.shen3@uqconnect.edu.au) and Heming Du (heming.du@uq.edu.au)**.
 
