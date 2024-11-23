@@ -43,6 +43,8 @@ article_header:
 
 We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **The Web Conference**.
 
+<br><br>
+
 ### Date
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
@@ -55,6 +57,8 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 
 
 All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone.
+
+<br><br>
 
 ### About the CV-ISLR Challenge
 This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
@@ -73,6 +77,8 @@ During testing, we further simulate real-life scenarios by setting different tes
 
 Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source).
 
+<br><br>
+
 ### Challenge Details
 
 To encourage research in this area, we are launching the Cross-View Isolated Sign Language Recognition Challenge, which will feature two competition settings:
@@ -81,12 +87,16 @@ To encourage research in this area, we are launching the Cross-View Isolated Sig
 
 We will use **Top-1 & Top-5 Accuracy** to evaluate participants' ISLR models.
 
+<br><br>
+
 ### Dataset Download
 
 We have divided the dataset into three subsets: Train, Valid, and Test.
 
 - **Train and Valid**: These subsets provide RGB and depth data from the front view, along with the corresponding gloss annotations.
 - **Test**: This subset only includes RGB and depth data from the left and right views, without annotations.
+
+<br><br>
 
 The download links for each subset **(Click to enter Google Drive)**:
   - [Train, Valid Test Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
@@ -101,6 +111,7 @@ The download links for each subset **(Click to enter Google Drive)**:
   - [Test-SYN-Right](https://drive.google.com/drive/folders/1zYksp5QlloVlcKdTGQs9Mt4qZUYnlO_Y?usp=drive_link)
   - [Test-TED-Right](https://drive.google.com/drive/folders/1ygy5JJs4K495QYk_X-I0HbOKqy1B36Z2?usp=drive_link)
 
+<br><br>
 
 ### Why Participate?
 - **Exciting Research Opportunities**: Tackle a cutting-edge problem in sign language recognition.
@@ -108,11 +119,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 - **Generous Awards**: Compete for prizes while gaining recognition in the field.
 - **Collaborative Community**: Engage with fellow researchers and practitioners passionate about creating impactful solutions.
 
-\\
-
-
-
-\\
+<br><br>
 
 ### How to Participate
 1. Visit our challenge page: [Insert challenge link]
