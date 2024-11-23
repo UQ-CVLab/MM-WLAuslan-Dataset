@@ -47,11 +47,12 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
 - **Timeline**:
-  \quad - **Challenge End Date**: 11 December, 2024
-  \quad  - **Workshop Paper Submission**: 18 December, 2024
-  \quad - **Workshop Paper Notification**: 13 January, 2025
-  \quad - **Workshop Paper Camera-Ready**: 2 February, 2025
-  \quad - **Workshops**: 28 April - 29 April, 2025
+&nbsp;&nbsp;&nbsp;&nbsp; - **Challenge End Date**: 11 December, 2024
+&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Submission**: 18 December, 2024
+&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Notification**: 13 January, 2025
+&nbsp;&nbsp;&nbsp;&nbsp; - **Workshop Paper Camera-Ready**: 2 February, 2025
+&nbsp;&nbsp;&nbsp;&nbsp; - **Workshops**: 28 April - 29 April, 2025
+
 
 All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zone. We encourage participants to cooperate closely with the conference workshop chairs and the local organizers.
 
@@ -75,7 +76,7 @@ During testing, we further simulate real-life scenarios by setting different tes
 3. **Synthetic background (SYN) set**: A background remover extracts signers from videos, and indoor or outdoor backgrounds are synthesized.
 4. **Temporal disturbance (TED) set**: This set simulates potential recording time discrepancies in real-world scenarios by randomly adjusting video segments through removal or altering playback speed.
 
-Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source)
+Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source).
 
 ### Challenge Details
 
@@ -83,7 +84,7 @@ To encourage research in this area, we are launching the Cross-View Isolated Sig
 1. **RGB-based ISLR**: Participants will develop models using only the front Kinect-V2 RGB data from the dataset, aiming to recognize signs from different views (left-front and right-front Kinect-V2) based on pixel information alone.
 2. **RGB-D-based ISLR**: Participants will have access to both RGB and depth data, allowing them to leverage multi-modal information to improve recognition performance across views.
 
-We will use **Top-\*k* Accuracy** to evaluate participants' ISLR models. Top-\*k* Accuracy is quantitatively defined as the proportion of test instances for which the true label is among the top *k* predictions made by the model. It is particularly suitable for ISLR tasks with a large set of possible outcomes.
+We will use **Top-k Accuracy** to evaluate participants' ISLR models. Top-k Accuracy is quantitatively defined as the proportion of test instances for which the true label is among the top *k* predictions made by the model. It is particularly suitable for ISLR tasks with a large set of possible outcomes.
 
 ### Dataset Download
 
