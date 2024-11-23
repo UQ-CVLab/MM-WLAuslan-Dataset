@@ -7,7 +7,7 @@ article_header:
   type: cover
   theme: dark
   image:
-    src: /docs/assets/images/AUSLAN.png
+    src: /docs/assets/images/www.png
 ---
 
 <!--
