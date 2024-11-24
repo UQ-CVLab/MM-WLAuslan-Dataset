@@ -99,10 +99,10 @@ We have divided the dataset into three subsets: Train, Valid, and Test.
 <br>
 
 The download links for each subset **(Click to enter Google Drive)**:
-  - [Train and Valid](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
-  - [Train](https://drive.google.com/drive/folders/1z2LiXBWwQOHEYKN4GbFBnWzF4LOAs8Lk?usp=drive_link)
-  - [Valid](https://drive.google.com/drive/folders/1AyAhxsiempMq-272irtDbbTMmBHpKvSc?usp=drive_link)
-  - [Test](https://drive.google.com/drive/folders/1meTX_yNDWJd0eJTNcCCvMzqvISqUWTT4?usp=drive_link)
+  - [Train and Valid Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
+  - [Train Set](https://drive.google.com/drive/folders/1z2LiXBWwQOHEYKN4GbFBnWzF4LOAs8Lk?usp=drive_link)
+  - [Valid Set](https://drive.google.com/drive/folders/1AyAhxsiempMq-272irtDbbTMmBHpKvSc?usp=drive_link)
+  - [Test Set](https://drive.google.com/drive/folders/1meTX_yNDWJd0eJTNcCCvMzqvISqUWTT4?usp=drive_link)
 
 <br>
 
