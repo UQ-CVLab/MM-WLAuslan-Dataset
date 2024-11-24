@@ -75,7 +75,7 @@ During testing, we further simulate real-life scenarios by setting different tes
 3. **Synthetic background (SYN) set**: A background remover extracts signers from videos, and indoor or outdoor backgrounds are synthesized.
 4. **Temporal disturbance (TED) set**: This set simulates potential recording time discrepancies in real-world scenarios by randomly adjusting video segments through removal or altering playback speed.
 
-Please see more datasets [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source).
+Please see more data sample details [here](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/dataset-source).
 
 <br>
 
@@ -99,17 +99,10 @@ We have divided the dataset into three subsets: Train, Valid, and Test.
 <br>
 
 The download links for each subset **(Click to enter Google Drive)**:
-  - [Train, Valid and Test Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
-  - [Train](https://drive.google.com/drive/folders/1SaNlubIwnf8ciWIJ-tc4lYsK8F1P9IrM?usp=drive_link)
-  - [Valid](https://drive.google.com/drive/folders/1VJilwDWCVIbVnOnAcbyoHN4EZOfnS5Db?usp=drive_link)
-  - [Test-STU-Left](https://drive.google.com/drive/folders/1TLyN_esKh2gwThFVul7rfVE1CGqYmv7U?usp=drive_link)
-  - [Test-ITW-Left](https://drive.google.com/drive/folders/18A8wEcRPJ2e5T8lMM2F_isu9qP-NyuSY?usp=drive_link)
-  - [Test-SYN-Left](https://drive.google.com/drive/folders/1mYpoXTmXXIHUmRBzdq-iFVVhPAQFY4vx?usp=drive_link)
-  - [Test-TED-Left](https://drive.google.com/drive/folders/1BLbi1imlSxKkWR1Hi3Fnl_L6tnDz-g_q?usp=drive_link)
-  - [Test-STU-Right](https://drive.google.com/drive/folders/1RpJxVMFiOM8wVjxYimlvoH-SOI3Ve06i?usp=drive_link)
-  - [Test-ITW-Right](https://drive.google.com/drive/folders/17P8v0qKVXYuy4hXeWivFWRGcvh_j0FBO?usp=drive_link)
-  - [Test-SYN-Right](https://drive.google.com/drive/folders/1zYksp5QlloVlcKdTGQs9Mt4qZUYnlO_Y?usp=drive_link)
-  - [Test-TED-Right](https://drive.google.com/drive/folders/1ygy5JJs4K495QYk_X-I0HbOKqy1B36Z2?usp=drive_link)
+  - [Train and Valid](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/file/d/175vajwxFUz4nW8q6U-QVMp_NfTyiQZ5U/view?usp=drive_link) file included in the dataset.)
+  - [Train](https://drive.google.com/drive/folders/1z2LiXBWwQOHEYKN4GbFBnWzF4LOAs8Lk?usp=drive_link)
+  - [Valid](https://drive.google.com/drive/folders/1AyAhxsiempMq-272irtDbbTMmBHpKvSc?usp=drive_link)
+  - [Test](https://drive.google.com/drive/folders/1meTX_yNDWJd0eJTNcCCvMzqvISqUWTT4?usp=drive_link)
 
 <br>
 
