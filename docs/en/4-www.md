@@ -120,6 +120,10 @@ The download links for each subset **(Click to enter Google Drive)**:
 3. Download the dataset and guidelines.
 4. Submit your solutions before the deadline.
 
+\textcolor{red}{Note}: The use of any open-source additional data and pre-trained models is allowed. However, please note that the MM-WLAuslan dataset is fully open-source, and participants are not permitted to use other perspectives of MM-WLAuslan for training. When submitting your paper, please also provide the processed data, code, and detailed training procedures. We will attempt to reproduce your results, and the ranking will be determined based on the novelty of the paper and the reproducibility of the results.
+
+<br><br>
+
 Whether you're a researcher, student, or enthusiast, your participation will contribute to advancing sign language recognition and fostering a more inclusive technological future.  We look forward to seeing your innovative solutions!
 
 **If you have any questions, please feel free to contact Xin Shen (x.shen3@uqconnect.edu.au) and Heming Du (heming.du@uq.edu.au)**.
