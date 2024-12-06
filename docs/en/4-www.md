@@ -144,6 +144,30 @@ Whether you're a researcher, student, or enthusiast, your participation will con
 **If you have any questions, please feel free to contact Xin Shen (x.shen3@uqconnect.edu.au) and Heming Du (heming.du@uq.edu.au)**.
 
 ### Reference
-If you use MM-WLAuslan dataset in your research, please cite the following entries:
+Please cite the MM-WLAuslan paper:
+
+      @article{shen2024mm,
+        title={MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset},
+        author={Shen, Xin and Du, Heming and Sheng, Hongwei and Wang, Shuyun and Chen, Hui and Chen, Huiqiang and Wu, Zhuojie and Du, Xiaobiao and Ying, Jiaying and Lu, Ruihan and others},
+        journal={arXiv preprint arXiv:2410.19488},
+        year={2024}
+      }
+
+Please consider citing our work about ISLR and Auslan:
+
+     @inproceedings{li2020word,
+        title={Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison},
+        author={Li, Dongxu and Rodriguez, Cristian and Yu, Xin and Li, Hongdong},
+        booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+        pages={1459--1469},
+        year={2020}
+     }
+
+      @inproceedings{ShenYSDY23,
+        title        = {Auslan-Daily: Australian Sign Language Translation for Daily Communication and News},
+        author       = {Xin Shen and Shaozu Yuan and Hongwei Sheng and Heming Du and Xin Yu},
+        booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023},
+        year         = {2023}
+      }
 
 
