@@ -156,7 +156,7 @@ Please cite the MM-WLAuslan paper:
 
 Please consider citing our work about ISLR and Auslan:
 
-     @inproceedings{li2020word,
+      @inproceedings{li2020word,
         title={Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison},
         author={Li, Dongxu and Rodriguez, Cristian and Yu, Xin and Li, Hongdong},
         booktitle={The IEEE Winter Conference on Applications of Computer Vision},
