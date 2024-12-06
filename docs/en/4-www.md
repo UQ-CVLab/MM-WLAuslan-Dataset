@@ -63,6 +63,9 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 ### News
 **Dec. 6th:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
 
+<br>
+<br>
+
 ### About the CV-ISLR Challenge
 This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
 
