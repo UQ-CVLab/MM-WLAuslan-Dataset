@@ -60,6 +60,9 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 
 <br>
 
+### News
+**Dec. 6th:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
+
 ### About the CV-ISLR Challenge
 This challenge focuses on advancing the field of sign language recognition by addressing the unique complexities of cross-view scenarios. Participants will have the opportunity to push the boundaries of machine learning and computer vision while contributing to the inclusivity and accessibility of technology.
 
@@ -85,7 +88,7 @@ To encourage research in this area, we are launching the Cross-View Isolated Sig
 1. **RGB-based ISLR**: Participants will develop models using only the front Kinect-V2 RGB data from the dataset, aiming to recognize signs from different views (left-front and right-front Kinect-V2) based on pixel information alone.
 2. **RGB-D-based ISLR**: Participants will have access to both RGB and depth data, allowing them to leverage multi-modal information to improve recognition performance across views.
 
-We will use **Top-1 & Top-5 Accuracy** to evaluate participants' ISLR models.
+We will use **Top-1 Accuracy** to evaluate participants' ISLR models.
 
 <br>
 
@@ -114,8 +117,8 @@ The download links for each subset **(Click to enter Google Drive)**:
 
 <br>
 
-### How to Participate (Coming Soon)
-1. Visit our challenge page: [Insert challenge link]
+### How to Participate
+1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGBD]()
 2. Register your team.
 3. Download the dataset and guidelines.
 4. Submit your solutions before the deadline.
