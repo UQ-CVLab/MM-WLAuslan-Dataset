@@ -148,7 +148,8 @@ Please cite the MM-WLAuslan paper:
 
       @article{shen2024mm,
         title={MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset},
-        author={Shen, Xin and Du, Heming and Sheng, Hongwei and Wang, Shuyun and Chen, Hui and Chen, Huiqiang and Wu, Zhuojie and Du, Xiaobiao and Ying, Jiaying and Lu, Ruihan and others},
+        author={Shen, Xin and Du, Heming and Sheng, Hongwei and Wang, Shuyun and Chen, Hui and Chen, Huiqiang
+                and Wu, Zhuojie and Du, Xiaobiao and Ying, Jiaying and Lu, Ruihan and others},
         journal={arXiv preprint arXiv:2410.19488},
         year={2024}
       }
@@ -164,10 +165,11 @@ Please consider citing our work about ISLR and Auslan:
      }
 
       @inproceedings{ShenYSDY23,
-        title        = {Auslan-Daily: Australian Sign Language Translation for Daily Communication and News},
-        author       = {Xin Shen and Shaozu Yuan and Hongwei Sheng and Heming Du and Xin Yu},
-        booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023},
-        year         = {2023}
+        title={Auslan-Daily: Australian Sign Language Translation for Daily Communication and News},
+        author={Xin Shen and Shaozu Yuan and Hongwei Sheng and Heming Du and Xin Yu},
+        booktitle={Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing
+                   Systems 2023},
+        year={2023}
       }
 
 
