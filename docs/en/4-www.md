@@ -121,7 +121,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 <br>
 
 ### How to Participate
-1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGB-D](https://codalab.lisn.upsaclay.fr/competitions/21025) (Note that these are two separate leaderboards.)
+1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGB-D](https://codalab.lisn.upsaclay.fr/competitions/21025) (Note that these are two separate leaderboards).
 2. Register your team.
 3. Download the **Test Set** video and **Test Order** file.
 4. Perform inference according to the **Test Order** file, save the results in **"answer.txt"**, and then zip it as **"answer.zip"** to submit the result. Here is an [example](https://drive.google.com/file/d/19m9hawCCUWcp7Ezzv-lWlzU3M9iVFrb2/view?usp=drive_link)
