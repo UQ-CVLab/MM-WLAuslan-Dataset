@@ -108,7 +108,7 @@ The download links for each subset **(Click to enter Google Drive)**:
   - [Train and Valid Labels](https://drive.google.com/drive/folders/1fa7tu7PfNl8JVLkRa5pUAzR7uMtVkGkk?usp=drive_link) (Please note that the **base names of the videos** are used in the labels. To correctly map the labels to the corresponding videos, make sure to read the [ReadMe.ipynb](https://drive.google.com/drive/folders/1pxOnL7IaT42hyp4E9zXqeMRvpkByAJZm?usp=drive_link) file included in the dataset.)
   - [Train Set](https://drive.google.com/drive/folders/1z2LiXBWwQOHEYKN4GbFBnWzF4LOAs8Lk?usp=drive_link)
   - [Valid Set](https://drive.google.com/drive/folders/1AyAhxsiempMq-272irtDbbTMmBHpKvSc?usp=drive_link)
-  - [Test Set](https://drive.google.com/drive/folders/1meTX_yNDWJd0eJTNcCCvMzqvISqUWTT4?usp=drive_link)
+  - [Test Set](https://drive.google.com/drive/folders/1meTX_yNDWJd0eJTNcCCvMzqvISqUWTT4?usp=drive_link) and [Test Order](https://drive.google.com/file/d/1Yp411X8_vByWSt_KdDT4ovGis2RSQFGr/view?usp=drive_link)
 
 <br>
 
@@ -121,16 +121,28 @@ The download links for each subset **(Click to enter Google Drive)**:
 <br>
 
 ### How to Participate
-1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGBD](https://codalab.lisn.upsaclay.fr/competitions/21025)
+1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGB-D](https://codalab.lisn.upsaclay.fr/competitions/21025)
 2. Register your team.
-3. Download the dataset and guidelines.
-4. Submit your solutions before the deadline.
+3. Download the **Test Set** video and **Test Order** file.
+4. Perform inference according to the **Test Order** file, save the results in **"answer.txt"**, and then zip it as **"answer.zip"** to submit the result. Here is an [example](https://drive.google.com/file/d/19m9hawCCUWcp7Ezzv-lWlzU3M9iVFrb2/view?usp=drive_link)
+5. Submit your solutions before the deadline.
 
 <span style="color:red;">Note</span>: The use of any open-source additional data and pre-trained models is allowed. However, please note that the MM-WLAuslan dataset is fully open-source, and participants are not permitted to use other perspectives of MM-WLAuslan for training. When submitting your paper, please also provide the processed data, code, and detailed training procedures. We will attempt to reproduce your results, and the ranking will be determined based on the novelty of the paper and the reproducibility of the results.
+
+### Paper Submission Guidelines
+Paper submission guidelines can be found [here](https://www2025.thewebconf.org/workshops).
+<br>
+
+Submission Site [Coming Soon]
+
 
 <br><br>
 
 Whether you're a researcher, student, or enthusiast, your participation will contribute to advancing sign language recognition and fostering a more inclusive technological future.  We look forward to seeing your innovative solutions!
 
 **If you have any questions, please feel free to contact Xin Shen (x.shen3@uqconnect.edu.au) and Heming Du (heming.du@uq.edu.au)**.
+
+### Reference
+If you use MM-WLAuslan dataset in your research, please cite the following entries:
+
 
