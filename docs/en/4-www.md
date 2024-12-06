@@ -129,6 +129,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 
 <span style="color:red;">Note</span>: The use of any open-source additional data and pre-trained models is allowed. However, please note that the MM-WLAuslan dataset is fully open-source, and participants are not permitted to use other perspectives of MM-WLAuslan for training. When submitting your paper, please also provide the processed data, code, and detailed training procedures. We will attempt to reproduce your results, and the ranking will be determined based on the novelty of the paper and the reproducibility of the results.
 
+<br>
 ### Paper Submission Guidelines
 Paper submission guidelines can be found [here](https://www2025.thewebconf.org/workshops).
 <br>
