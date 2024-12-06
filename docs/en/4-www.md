@@ -118,7 +118,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 <br>
 
 ### How to Participate
-1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGBD]()
+1. Visit our challenge page: [RGB](https://codalab.lisn.upsaclay.fr/competitions/21021) and [RGBD](https://codalab.lisn.upsaclay.fr/competitions/21025)
 2. Register your team.
 3. Download the dataset and guidelines.
 4. Submit your solutions before the deadline.
