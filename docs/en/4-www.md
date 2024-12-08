@@ -102,6 +102,7 @@ We have divided the dataset into three subsets: Train, Valid, and Test.
 - **Train and Valid**: These subsets provide RGB and depth data from the front view, along with the corresponding gloss annotations.
 - **Test**: This subset only includes RGB and depth data from the left and right views, without annotations.
 
+<span style="color:red;">Note</span>: The test set must not be used for any data augmentation, training, or related purposes and should only be utilized for inference.
 <br>
 
 The download links for each subset **(Click to enter Google Drive)**:
