@@ -63,6 +63,7 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 ### News
 **Dec. 6th:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
 
+**Dec. 7th:** Please note that we have stricter requirements for the competition. (Refer to the <span style="color:red;">Note</span> for details.)
 <br>
 <br>
 
