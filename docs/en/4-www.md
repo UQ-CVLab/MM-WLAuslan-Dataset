@@ -49,10 +49,10 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
 - **Timeline**:
-  - **Challenge End Date**: 24 December, 2024
-  - **Workshop Paper Submission**: 25 December, 2024
-  - **Workshop Paper Notification**: 13 January, 2025
-  - **Workshop Paper Camera-Ready**: 2 February, 2025
+  - **Challenge End Date**: 29 December, 2024
+  - **Workshop Paper Submission**: 1 January, 2024
+  - **Workshop Paper Notification**: 27 January, 2025
+  - **Workshop Paper Camera-Ready**: 7 February, 2025
   - **Workshops**: 28 April - 29 April, 2025
 
 
@@ -64,6 +64,9 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 **Dec. 6th:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
 
 **Dec. 7th:** Please note that we have stricter requirements for the competition. (Refer to the <span style="color:red;">Note</span> for details.)
+
+**Dec. 19th:** Please note that we extend **Challenge End Date**.
+
 <br>
 <br>
 
