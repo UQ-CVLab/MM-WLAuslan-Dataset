@@ -145,7 +145,7 @@ Competition report (up to 4 pages in length, with unlimited pages for references
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
 
-Submission Site is at [EasyChair](https://easychair.org/my/conference?conf=www25cvislr)
+Submission Site is at [EasyChair](https://easychair.org/my/conference?conf=www25cvislr).
 
 
 <br><br>
