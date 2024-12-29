@@ -41,7 +41,7 @@ article_header:
 
 ## Invitation to Join the CV-ISLR Challenge
 
-We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **The Web Conference**.
+We are excited to invite you to participate in our **Cross-View Isolated Sign Language Recognition Challenge (CV-ISLR)**, hosted as part of **[The Web Conference](https://www2025.thewebconf.org/)**.
 
 <br>
 
@@ -135,8 +135,15 @@ The download links for each subset **(Click to enter Google Drive)**:
 <span style="color:red;">Note</span>: The use of any open-source additional data and pre-trained models is allowed. However, please note that the MM-WLAuslan dataset is fully open-source, and participants are not permitted to use other perspectives of MM-WLAuslan for training. When submitting your paper, please also provide the processed data, code, and detailed training procedures. We will attempt to reproduce your results, and the ranking will be determined based on the novelty of the paper and the reproducibility of the results.
 
 <br>
+
 ### Paper Submission Guidelines
 Paper submission guidelines can be found [here](https://www2025.thewebconf.org/workshops).
+
+Competition report (up to 4 pages in length, with unlimited pages for references): Ideas, method design, experimental results, and more from the competition.
+
+Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
+
+
 <br>
 
 Submission Site [Coming Soon]
