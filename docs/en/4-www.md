@@ -49,7 +49,7 @@ We are excited to invite you to participate in our **Cross-View Isolated Sign La
 - **Event**: Cross-View Isolated Sign Language Recognition Challenge
 - **Host**: The Web Conference & The University of Queensland
 - **Timeline**:
-  - **Challenge End Date**: 29 December, 2024
+  - **Challenge End Date**: 31 December, 2024
   - **Workshop Paper Submission**: 1 January, 2025
   - **Workshop Paper Notification**: 27 January, 2025
   - **Workshop Paper Camera-Ready**: 7 February, 2025
