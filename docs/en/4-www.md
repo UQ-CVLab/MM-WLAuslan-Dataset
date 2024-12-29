@@ -67,6 +67,8 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 
 **Dec. 19th:** Please note that we extend **Challenge End Date**.
 
+**Dec. 29th:** We have opened the paper submission process. Please refer to the **Paper Submission Guidelines**.
+
 <br>
 <br>
 
@@ -143,10 +145,7 @@ Competition report (up to 4 pages in length, with unlimited pages for references
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
 
-
-<br>
-
-Submission Site [Coming Soon]
+Submission Site is at [EasyChair](https://easychair.org/my/conference?conf=www25cvislr)
 
 
 <br><br>
