@@ -141,7 +141,7 @@ The download links for each subset **(Click to enter Google Drive)**:
 ### Paper Submission Guidelines
 Paper submission guidelines can be found [here](https://www2025.thewebconf.org/workshops).
 
-Competition report (up to 4 pages in length, with unlimited pages for references): Ideas, method design, experimental results, and more from the competition.
+Competition report (up to 4 pages in length, with unlimited pages for references): Ideas, method design, experimental results, and more from the competition. When submitting your paper, please also provide the processed data, code, and detailed training procedures.
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
 
