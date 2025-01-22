@@ -61,13 +61,15 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 <br>
 
 ### News
-**Dec. 6th:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
+**Dec. 6th, 2024:** We have updated CodaLab for registration and result submission. Please refer to "**How to Participate**".
 
-**Dec. 7th:** Please note that we have stricter requirements for the competition. (Refer to the <span style="color:red;">Note</span> for details.)
+**Dec. 7th, 2024:** Please note that we have stricter requirements for the competition. (Refer to the <span style="color:red;">Note</span> for details.)
 
-**Dec. 19th:** Please note that we extend **Challenge End Date**.
+**Dec. 19th, 2024:** Please note that we extend **Challenge End Date**.
 
-**Dec. 29th:** We have opened the paper submission process. Please refer to the **Paper Submission Guidelines**.
+**Dec. 29th, 2024:** We have opened the paper submission process. Please refer to the **Paper Submission Guidelines**.
+
+**Jan. 22th, 2025:** We have opened the fast-track submission process. Please refer to the **Paper Submission Guidelines for Fast-Track**.
 
 <br>
 <br>
@@ -147,6 +149,20 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 
 Submission Site is at [EasyChair](https://easychair.org/my/conference?conf=www25cvislr).
 
+
+<br><br>
+
+
+### Paper Submission Guidelines for Fast-Track
+Paper submission guidelines can be found [here](https://www2025.thewebconf.org/workshop-fast-track).
+
+Papers Related to Sign Language (4-8 pages): We welcome submissions of all papers related to sign language.
+
+Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
+
+Submission Site is at [EasyChair](https://easychair.org/my/conference?conf=www25cvislr).
+
+Deadline: 11:59 PM, January 26th (AOE).
 
 <br><br>
 
