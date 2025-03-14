@@ -123,7 +123,7 @@ _Organization_: The University of Queensland <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>
 _Authors_: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
-_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
+_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center & Zhejiang University <br>
 
 #### Tack 2: RGB-D-based ISLR:
 
@@ -137,7 +137,7 @@ _Organization_: Zhejiang University <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>
 _Authors_: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
-_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
+_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center & Zhejiang University <br>
 
 <br>
 All technical reports and summaries will be released by The Web Conference.
