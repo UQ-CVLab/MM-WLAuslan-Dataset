@@ -118,7 +118,7 @@ _Organization_: State Key Laboratory of AI Safety, Institute of Computing Techno
 
 
 - **Second Place**: Zero-Shot Multi-View Australian Sign Language Recognition. <br>
-_Authors_: Zhongtian Zheng <br>
+_Author_: Zhongtian Zheng <br>
 _Organization_: The University of Queensland <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>
@@ -132,7 +132,7 @@ _Authors_: Yuting Peng, Peiqi Jiao, Honggang Zou, Yuecong Min and Xilin Chen <br
 _Organization_: State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences University of Chinese Academy of Sciences <br>
 
 - **Second Place**: Cross-View Isolated Sign Language Recognition with Graph. <br>
-_Authors_: Xinyu Wang <br>
+_Author_: Xinyu Wang <br>
 _Organization_: Zhejiang University <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>

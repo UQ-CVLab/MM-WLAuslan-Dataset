@@ -28,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/media/xins/xinS1/Word_LeveL_Auslan/website/MM-WLAuslan-Dataset",
+    "last_opened_file_path": "/media/xins/xinS1/Depth/ISLR_Experiments",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,13 +68,8 @@
       <workItem from="1735605941078" duration="485000" />
       <workItem from="1737518722728" duration="1493000" />
       <workItem from="1741913854538" duration="2938000" />
-    </task>
-    <task id="LOCAL-00015" summary="xin-update">
-      <created>1732362813609</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1732362813609</updated>
+      <workItem from="1741921420173" duration="64000" />
+      <workItem from="1741929241851" duration="18000" />
     </task>
     <task id="LOCAL-00016" summary="xin-update">
       <created>1732363095517</created>
@@ -412,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741916243620</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="xin-update">
+      <created>1741921477707</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1741921477707</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
