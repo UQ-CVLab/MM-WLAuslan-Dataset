@@ -71,6 +71,8 @@ All submission deadlines are end-of-day in the *Anywhere on Earth (AoE)* time zo
 
 **Jan. 22th, 2025:** We have opened the fast-track submission process. Please refer to the **Paper Submission Guidelines for Fast-Track**.
 
+**Mar. 15th, 2025:** We have announced the competition results.
+
 <br>
 <br>
 
