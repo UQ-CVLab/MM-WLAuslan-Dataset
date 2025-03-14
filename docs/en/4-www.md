@@ -113,33 +113,34 @@ We will use **Top-1 Accuracy** to evaluate participants' ISLR models.
 #### Tack 1: RGB-based ISLR:
 
 - **First Place**: Synthetic View Augmentation for Sign Language Recognition. <br>
-Authors: Yuting Peng, Peiqi Jiao, Honggang Zou, Yuecong Min and Xilin Chen <br>
-Organization: State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences University of Chinese Academy of Sciences <br>
+_Authors_: Yuting Peng, Peiqi Jiao, Honggang Zou, Yuecong Min and Xilin Chen <br>
+_Organization_: State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences University of Chinese Academy of Sciences <br>
 
 
 - **Second Place**: Zero-Shot Multi-View Australian Sign Language Recognition. <br>
-Authors: Zhongtian Zheng <br>
-Organization: The University of Queensland <br>
+_Authors_: Zhongtian Zheng <br>
+_Organization_: The University of Queensland <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>
-Authors: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
-Organization: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
+_Authors_: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
+_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
 
 #### Tack 2: RGB-D-based ISLR:
 
 - **First Place**: Synthetic View Augmentation for Sign Language Recognition. <br>
-Authors: Yuting Peng, Peiqi Jiao, Honggang Zou, Yuecong Min and Xilin Chen <br>
-Organization: State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences University of Chinese Academy of Sciences <br>
+_Authors_: Yuting Peng, Peiqi Jiao, Honggang Zou, Yuecong Min and Xilin Chen <br>
+_Organization_: State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences University of Chinese Academy of Sciences <br>
 
 - **Second Place**: Cross-View Isolated Sign Language Recognition with Graph. <br>
-Authors: Xinyu Wang Zheng <br>
-Organization: Zhejiang University <br>
+_Authors_: Xinyu Wang Zheng <br>
+_Organization_: Zhejiang University <br>
 
 - **Third Place**: Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. <br>
-Authors: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
-Organization: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
+_Authors_: Fei Wang, Kun Li, Yiqi Nie, Zhangling Duan, Peng Zou, Zhiliang Wu, Yuwei Wang and Yanyan Wei <br>
+_Organization_: Hefei University of Technology Institute of Artificial Intelligence, Hefei Comprehensive National Science Center <br>
 
-
+<br>
+All technical reports and summaries will be released by The Web Conference.
 <br>
 
 ### Dataset Download
